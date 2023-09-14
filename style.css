@@ -1,0 +1,689 @@
+* {
+    margin: 0PX;
+    padding: 0PX;
+}
+
+img {
+    height: 30px;
+    width: 110px;
+    margin-left: 30px;
+    padding: 11px 0px 0px 10px;
+
+}
+
+LI {
+    list-style: none;
+    margin-left: 75px;
+    padding: 30px 0px 10px 0px;
+    color: rgb(4, 4, 4);
+
+
+
+
+}
+
+.one {
+    display: flex;
+    cursor: pointer;
+    background-color: rgba(248, 229, 201, 0.493);
+    top: 0px;
+    z-index: 1;
+    position: absolute;
+    width: 1583px;
+    position: sticky;
+}
+
+.button {
+    margin-left: 42px;
+    height: 40px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: rgb(23, 205, 23);
+    color: black;
+    cursor: pointer;
+    margin-top: 15px;
+    bottom: 15PX;
+    position: relative;
+    top: 0PX;
+    padding: 17px 0px 0px 26px;
+    margin-bottom:13px;
+    right: 0px;
+}
+
+#right {
+    margin-left: 250px;
+}
+
+#lo {
+    margin-left: 170px;
+}
+
+.button:hover {
+    background-color: black;
+    color: white;
+}
+
+.one li:hover {
+    color: lightcoral;
+    border-bottom: 2px solid rgba(16, 230, 16, 0.911);
+    height: 10px;
+}
+
+
+.first {
+    height: 900px;
+    width: 1490px;
+    margin-left: 30px;
+    margin-top: 20px;
+    border-radius: 35px;
+    position: absolute;
+}
+
+.it {
+    height: 45px;
+    position: absolute;
+    width: 400px;
+    margin-left: 850px;
+    margin-top: 60px;
+}
+
+.ut {
+    position: absolute;
+    height: 100px;
+    width: 350px;
+    margin-left: 900px;
+    margin-top: 200px;
+}
+
+.tii {
+    position: absolute;
+    height: 80px;
+    width: 500px;
+    margin-left: 450px;
+    top: 520%;
+}
+
+.yoo {
+    width: 480px;
+    height: 300px;
+    margin-left: 900px;
+    margin-top: 500px;
+}
+
+.text {
+    width: 450px;
+    height: 80px;
+    margin-left: 990px;
+    margin-top: 50%;
+}
+
+.sis {
+    width: 350px;
+    height: 50px;
+    margin-left: 55%;
+
+
+}
+
+.container {
+    position: relative;
+}
+
+.emoji {
+    height: 50px;
+    width: 400px;
+    margin-top: 778PX;
+    margin-left: 910PX;
+}
+
+.other {
+    width: 1440px;
+    height: 250px;
+    margin-top: 950px;
+    position: relative;
+}
+
+body {
+    background-color: rgba(248, 229, 201, 0.647);
+}
+
+.message {
+    position: absolute;
+    font-size: 35px;
+    color: white;
+    margin-top: 20%;
+    margin-left: 250px;
+
+}
+
+BUTTON {
+    width: 180px;
+    height: 65px;
+    border-radius: 30px;
+    background-color: rgba(39, 229, 39, 0.985);
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: white;
+}
+
+.data {
+    margin-top: 940px;
+    margin-left: 1100px;
+    position: absolute;
+}
+
+.second {
+    text-align: center;
+    margin-left: 10px;
+    font-size: 35px;
+}
+
+.lil {
+    width: 1440px;
+    height: 300px;
+}
+
+.out {
+    font-size: 70px;
+    margin-left: 250px;
+    position: relative;
+    margin-top: 170px;
+
+}
+
+.call {
+    height: 600px;
+    width: 350px;
+    margin-left: 850px;
+    margin-top: 100px;
+    position: absolute;
+}
+
+.hlo {
+    margin-left: 255px;
+}
+
+.jil {
+    margin-left: 255px;
+    cursor: pointer;
+
+    width: 100px;
+}
+
+.href {
+    font-size: 20px;
+}
+
+.jil:hover {
+    color: rgb(18, 255, 18);
+    border-bottom: 2px solid rgb(7, 237, 7);
+    width: 85px;
+}
+
+.next {
+    height: 700px;
+    background-color: rgba(0, 0, 0, 0.881);
+    position: relative;
+}
+
+.us {
+    width: 550px;
+    height: 650px;
+    margin-left: 280px;
+    margin-top: 35px;
+}
+
+.speak {
+    position: absolute;
+    color: white;
+    margin-top: 220px;
+    margin-left: 900px;
+    font-size: 65px;
+}
+
+.freely {
+    position: absolute;
+    color: rgba(12, 210, 12, 0.875);
+    margin-top: 290px;
+    margin-left: 900px;
+    font-size: 65px;
+}
+
+.end {
+    position: absolute;
+    color: white;
+    margin-top: 380px;
+    margin-left: 900px;
+    font-size: 20px;
+}
+
+.learn {
+    position: absolute;
+    color: white;
+    margin-top: 490px;
+    margin-left: 900px;
+    font-size: 18px;
+    border-bottom: 2px solid rgba(8, 206, 8, 0.872);
+    cursor: pointer;
+}
+
+.learn:hover {
+    color: rgb(9, 216, 9);
+}
+
+#touch {
+    position: relative;
+    margin-left: 20%;
+    font-size: 25px;
+}
+
+.tell {
+    margin-bottom: 20px;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 20%;
+}
+
+.more {
+    margin-left: 20%;
+    cursor: pointer;
+
+    border-bottom: 2px solid rgb(9, 187, 101, 0.879);
+    width: 90px;
+
+}
+
+.more:hover {
+    color: rgba(9, 187, 101, 0.879);
+    ;
+}
+
+.omg {
+    height: 500px;
+    width: 400px;
+    margin-left: 55%;
+    top: 450%;
+
+}
+
+.container_2 {
+    margin-top: 220px;
+}
+
+.back {
+    height: 600px;
+    width: 300px;
+    margin-left: 57%;
+    margin-top: -90%;
+    z-index: 1;
+}
+
+.hash {
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 29px;
+}
+
+.women {
+    position: absolute;
+    height: 600px;
+    width: 300px;
+    margin-left: 100px;
+}
+
+.beach {
+    position: relative;
+    height: 300px;
+    width: 250px;
+    margin-left: 150px;
+    margin-top: 30%;
+}
+
+.say {
+
+    margin-left: 530px;
+    font-size: 60px;
+    margin-top: -53%;
+
+}
+
+#ok {
+    margin-left: 530px;
+    position: relative;
+    text-align: left;
+    margin-top: 35px;
+    font-size: 20px;
+}
+
+#ko {
+    position: relative;
+    margin-left: 530px;
+    margin-top: 20px;
+    font-size: 20px;
+    border-bottom: 2px solid rgba(9, 187, 101, 0.879);
+    width: 93px;
+    ;
+
+
+}
+
+#ko:hover {
+    color: rgb(9, 187, 101, 0.879);
+}
+
+#container_3 {
+    position: relative;
+    top: 820px;
+    margin-left: 305px;
+}
+
+.text_2 {
+    font-size: 25px;
+}
+
+.build {
+    font-size: 10px;
+}
+
+.tell {
+    margin-right: 50px;
+
+}
+
+.sales {
+    font-size: 25px;
+    position: relative;
+    margin-top: 10px;
+    border-bottom: 2px solid rgba(9, 187, 101, 0.879);
+    width: 120px;
+    ;
+
+
+}
+
+.get {
+    top: 30px;
+}
+
+.raech {
+    margin-top: 10px;
+}
+
+.sales:hover {
+    color: rgb(4, 169, 103);
+
+
+}
+
+.jio {
+    position: relative;
+    height: 650px;
+    width: 330px;
+    margin-left: 600px;
+
+    top: -420px;
+}
+
+.iqu {
+    background-color: rgba(75, 238, 16, 0);
+}
+
+#green {
+    margin-top: 400px;
+    height: 650px;
+    background-color: #E6FFDA;
+
+}
+
+#black {
+    background-color: black;
+    border: 2px solid black;
+    height: 700px;
+    position: relative;
+    top: -70px;
+
+
+}
+
+.mac {
+    color: black;
+    font-size: 45px;
+    margin-left: 210px;
+    position: relative;
+    top: 100px;
+}
+
+.box-1 {
+
+    height: 360px;
+    width: 450px;
+    border-radius: 7%;
+    margin-left: 610px;
+    position: relative;
+    background-color: white;
+}
+
+.box-2 {
+    height: 360px;
+    width: 450px;
+    border-radius: 7%;
+    margin-left: 1100px;
+    position: relative;
+    bottom: 55.9%;
+    background-color: white;
+}
+
+.fa-brands {
+    margin-top: 20px;
+    margin-left: 40px;
+    font-size: 30px;
+}
+
+.calling {
+
+    font-size: 30px;
+    margin-left: 35px;
+    margin-top: 35px;
+}
+
+.users {
+    margin-top: 30px;
+    margin-left: 35px;
+}
+
+#b-2 {
+    position: absolute;
+    margin-top: 10px;
+    background-color: white;
+    width: 150px;
+    height: 60px;
+    margin-left: 30px;
+    margin-top: 30px;
+
+}
+
+.videos {
+    font-size: 30px;
+    margin-left: 35px;
+    margin-top: 35px;
+}
+
+.chat {
+    margin-top: 30px;
+    margin-left: 35px;
+}
+
+.app {
+    width: 170px;
+    position: absolute;
+    top: 150px;
+    z-index: 1;
+    margin-left: 350px;
+    height: 40px;
+}
+
+.margin {
+    margin-top: 20%;
+    margin-left: 350px;
+}
+
+#li-1 {
+    color: white;
+    margin-left: 600px;
+    margin-top: -230px;
+    position: absolute;
+    font-size: 20px;
+}
+
+li {
+    color: white;
+}
+
+.we {
+    margin-left: 70px;
+    font-size: 15px;
+}
+
+.li-2 {
+    color: white;
+    margin-left: 780px;
+    margin-top: -230px;
+    font-size: 20px;
+
+}
+
+.are {
+    font-size: 15px;
+}
+
+.li-3 {
+    margin-left: 950PX;
+    margin-top: -310px;
+    font-size: 20px;
+
+}
+
+.use {
+    font-size: 15px;
+}
+
+.li-4 {
+    font-size: 20px;
+    margin-left: 1140px;
+    margin-top: -310px;
+
+}
+
+.help {
+    font-size: 15px;
+}
+
+hr {
+    width: 1100px;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+#twitter {
+    position: absolute;
+    margin-top: 25px;
+    color: white;
+    margin-left: 680px;
+    border: 2px solid white;
+    width: 40px;
+    height: 42px;
+    padding: 19px 2px 0px 22px;
+    border-radius: 50%;
+    font-size: 22px;
+    cursor: pointer;
+    z-index: 99;
+}
+
+#twitter:hover {
+    background-color: rgb(14, 223, 14);
+    color: black;
+    cursor: pointer;
+
+}
+
+#youtube {
+    color: white;
+    margin-top: 25px;
+    margin-left: 790px;
+    width: 40px;
+    height: 42px;
+    padding: 19px 3px 0px 18px;
+    border-radius: 50%;
+    font-size: 22px;
+    border: 2px solid white;
+
+}
+
+#youtube:hover {
+    background-color: rgb(14, 223, 14);
+    color: black;
+    cursor: pointer;
+}
+
+#instagram {
+    color: white;
+    margin-top: 25px;
+    width: 40px;
+    height: 42px;
+    padding: 19px 3px 0px 22px;
+    border-radius: 50%;
+    font-size: 22px;
+    border: 2px solid white;
+
+}
+
+#instagram:hover {
+    background-color: rgb(14, 223, 14);
+    color: black;
+    cursor: pointer;
+}
+
+#facebook {
+    color: white;
+    margin-top: 25px;
+    width: 40px;
+    height: 42px;
+    padding: 19px -0px 0px 25px;
+    border-radius: 50%;
+    font-size: 22px;
+    border: 2px solid white;
+
+}
+
+#facebook:hover {
+    background-color: rgb(14, 223, 14);
+    color: black;
+    cursor: pointer;
+}
+
+#ENGLISH {
+    width: 170px;
+    height: 50px;
+    margin-left: 150px;
+    border-radius: 25px;
+    padding: 0PX 20PX 0PX 10PX;
+    background-color: black;
+    color: WHITE;
+    margin-right: 20PX;
+}
+
+.llc {
+    color: white;
+    font-size: 12px;
+    margin-top: -45px;
+    margin-left: 310px;
+}
+
+.policy {
+    color: white;
+    margin-top: -31px;
+    font-size: 12px;
+    margin-left:450px ;
+}
